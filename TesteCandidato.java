@@ -1,5 +1,3 @@
-import javax.print.event.PrintEvent;
-
 public class TesteCandidato {
     public static void main(String[] args) {
       
